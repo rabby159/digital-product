@@ -63,3 +63,21 @@
     outline: none;
 
 }
+.about-tittle{
+    text-align: center;
+    padding: 15px;
+}
+.about-sec-tittle{
+
+}
+.about{
+    text-align: center;
+    padding-top: 20px;
+}
+.about-containear{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+    margin: 20px;
+    padding: 25px;
+}
