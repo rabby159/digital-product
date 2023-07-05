@@ -29,3 +29,37 @@
     cursor:pointer;
     color: brown;
 }
+.banner{
+    width: 230px;
+}
+.banner-container{
+    display: flex;
+    justify-content:space-around;
+    padding: 10px;
+    align-items: center;
+    height: 100vh;
+    background-image: url("./images/background.png"),linear-gradient(45deg, rgb(5, 5, 5), #2e2e2e);
+    color: white;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.tittle{
+    font-size: 32px;
+    font-weight: bold;
+}
+.tittle-descr{
+    font-size: 12px;
+    margin-top: 10px;
+}
+.btn{
+    margin-top: 10px;
+    background-color: red;
+    color:white;
+    padding: 13px 15px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+
+}
