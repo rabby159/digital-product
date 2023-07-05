@@ -81,3 +81,34 @@
     margin: 20px;
     padding: 25px;
 }
+
+.box{
+    width: 200px;
+    height: 280px;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 4px 2px 105px gray;
+    border-radius: 10px;
+}
+.box-tittle{
+    padding: 10px;
+}
+.box-btn{
+    background-color: #706a6a;
+}
+.icon{
+    width: 70px;
+    color: #2e2e2e;
+}
+.service-container{
+    
+    background-image: url("./images/background.png"), linear-gradient(45deg, rgb(5, 5, 5), #2e2e2e);
+    color: white;
+    padding: 50px;
+    flex-wrap: wrap;
+}
+.box-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
