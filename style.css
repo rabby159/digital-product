@@ -125,7 +125,7 @@ footer{
 .footer-container{
     display: flex;
     width: 75%;
-    height: 60vh;
+    height: 50vh;
     margin: 0 auto;
     justify-content: space-around;
     align-items: center;
