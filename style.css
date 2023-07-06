@@ -63,6 +63,11 @@
     outline: none;
 
 }
+.btn:hover{
+    cursor:pointer;
+    color: antiquewhite;
+    background-color: rgb(67, 67, 216);
+}
 .about-tittle{
     text-align: center;
     padding: 15px;
