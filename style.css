@@ -187,13 +187,17 @@ footer{
 
 .fa-square-facebook:hover{
     color: blue;
+    cursor: pointer;
 }
 .fa-youtube:hover{
     color: red;
+    cursor: pointer;
 }
 .fa-square-instagram:hover{
     color: rgb(243, 6, 117);
+    cursor: pointer;
 }
 .fa-square-whatsapp:hover{
     color: green;
+    cursor: pointer;
 }
